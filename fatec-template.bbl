@@ -1,0 +1,167 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{IBGE2024}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1452f3dda9029008d7710341ca264026}{%
+           family={{Instituto Brasileiro de Geografia e Estatística (IBGE)}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{1452f3dda9029008d7710341ca264026}
+      \strng{fullhash}{1452f3dda9029008d7710341ca264026}
+      \strng{bibnamehash}{1452f3dda9029008d7710341ca264026}
+      \strng{authorbibnamehash}{1452f3dda9029008d7710341ca264026}
+      \strng{authornamehash}{1452f3dda9029008d7710341ca264026}
+      \strng{authorfullhash}{1452f3dda9029008d7710341ca264026}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 10 nov. 2024}
+      \field{title}{Produção Agrícola Municipal: Culturas Temporárias e Permanentes}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.ibge.gov.br/estatisticas/economicas/agricultura-e-pecuaria/9117-producao-agricola-municipal-culturas-temporarias-e-permanentes.html
+      \endverb
+      \verb{url}
+      \verb https://www.ibge.gov.br/estatisticas/economicas/agricultura-e-pecuaria/9117-producao-agricola-municipal-culturas-temporarias-e-permanentes.html
+      \endverb
+    \endentry
+    \entry{plantix}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3bd720c748c4ffce38a8d21b62878f7e}{%
+           family={Plantix},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{3bd720c748c4ffce38a8d21b62878f7e}
+      \strng{fullhash}{3bd720c748c4ffce38a8d21b62878f7e}
+      \strng{bibnamehash}{3bd720c748c4ffce38a8d21b62878f7e}
+      \strng{authorbibnamehash}{3bd720c748c4ffce38a8d21b62878f7e}
+      \strng{authornamehash}{3bd720c748c4ffce38a8d21b62878f7e}
+      \strng{authorfullhash}{3bd720c748c4ffce38a8d21b62878f7e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 10 nov. 2024}
+      \field{title}{Plantix - A plataforma digital para a agricultura inteligente}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.plantix.net
+      \endverb
+      \verb{url}
+      \verb https://www.plantix.net
+      \endverb
+    \endentry
+    \entry{plantnet}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2d13ae1240ab5a59e2366a07ef9f361d}{%
+           family={PlantNet},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d13ae1240ab5a59e2366a07ef9f361d}
+      \strng{fullhash}{2d13ae1240ab5a59e2366a07ef9f361d}
+      \strng{bibnamehash}{2d13ae1240ab5a59e2366a07ef9f361d}
+      \strng{authorbibnamehash}{2d13ae1240ab5a59e2366a07ef9f361d}
+      \strng{authornamehash}{2d13ae1240ab5a59e2366a07ef9f361d}
+      \strng{authorfullhash}{2d13ae1240ab5a59e2366a07ef9f361d}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 17 nov. 2024}
+      \field{title}{PlantNet - Identificação de plantas com inteligência artificial}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://identify.plantnet.org
+      \endverb
+      \verb{url}
+      \verb https://identify.plantnet.org
+      \endverb
+    \endentry
+    \entry{plantsnap}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=edcc1b99be16591e32dc3134577d833e}{%
+           family={PlantSnap},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{edcc1b99be16591e32dc3134577d833e}
+      \strng{fullhash}{edcc1b99be16591e32dc3134577d833e}
+      \strng{bibnamehash}{edcc1b99be16591e32dc3134577d833e}
+      \strng{authorbibnamehash}{edcc1b99be16591e32dc3134577d833e}
+      \strng{authornamehash}{edcc1b99be16591e32dc3134577d833e}
+      \strng{authorfullhash}{edcc1b99be16591e32dc3134577d833e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 17 nov. 2024}
+      \field{title}{PlantSnap - Identificação de plantas com inteligência artificial}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.plantsnap.com
+      \endverb
+      \verb{url}
+      \verb https://www.plantsnap.com
+      \endverb
+    \endentry
+    \entry{viana2023diagnostico}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5b2ffe32f3b1ddc70095647df6c9e55c}{%
+           family={Viana},
+           familyi={V\bibinitperiod},
+           given={Ramon\bibnamedelima Fernandes},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5b2ffe32f3b1ddc70095647df6c9e55c}
+      \strng{fullhash}{5b2ffe32f3b1ddc70095647df6c9e55c}
+      \strng{bibnamehash}{5b2ffe32f3b1ddc70095647df6c9e55c}
+      \strng{authorbibnamehash}{5b2ffe32f3b1ddc70095647df6c9e55c}
+      \strng{authornamehash}{5b2ffe32f3b1ddc70095647df6c9e55c}
+      \strng{authorfullhash}{5b2ffe32f3b1ddc70095647df6c9e55c}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Diagnóstico de doenças em tomateiros com Deep Learning.}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://monografias.ufop.br/bitstream/35400000/6074/8/MONOGRAFIA_DiagnósticoDoençasTomateiros.pdf
+      \endverb
+      \verb{url}
+      \verb https://monografias.ufop.br/bitstream/35400000/6074/8/MONOGRAFIA_Diagn%C3%B3sticoDoen%C3%A7asTomateiros.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
